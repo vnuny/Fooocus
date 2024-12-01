@@ -45,7 +45,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "WildCardX_XL": "https://civitai.com/api/download/models/308455?type=Model&format=SafeTensor&size=full&fp=bf16?token=3cb15f4c55eedfa1ce3d0090edbf4be0"
+        "WildCardX_XL": "https://civitai.com/api/download/models/308455?type=Model&format=SafeTensor&size=full&fp=bf16&token=3cb15f4c55eedfa1ce3d0090edbf4be0"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
